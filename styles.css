@@ -1,0 +1,61 @@
+body {
+    background-color: rgba(202, 196, 185, 0.808);
+    display: inline-block;
+   }
+   
+.header li {
+    font-weight: bold;
+    display: inline-block;
+    font-size:x-large;
+    padding: 14px 16px;
+}
+
+.header {   
+    background-color: rgb(214, 191, 63); 
+    color: black;
+    text-align: right;
+}
+
+.heading {
+    margin: 20px;
+    font-weight: bolder;
+}
+
+.about_me {
+    display: inline-flex;
+    margin: 10px;
+    text-align: center; 
+}
+
+.about_me img{
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+}
+
+.intro {
+    display: inline-block;
+    text-align: left;
+    padding: 20px;
+}
+
+.education {
+    display: inline-block;
+}
+
+.education p {
+    margin-left: 20px;
+}
+
+.work_experience p{
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.contact li{
+    display: inline-flexbox;
+}
+
+.footer {
+    text-align: center;
+}
